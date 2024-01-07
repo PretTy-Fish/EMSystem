@@ -11,7 +11,7 @@ Implementation of [finite-difference time-domain method](https://ieeexplore.ieee
 
 ## Preparation
 
-The project depends on the following Python libraries:
+The project depends on the following Python packages:
 
 * numpy
 * matplotlib
