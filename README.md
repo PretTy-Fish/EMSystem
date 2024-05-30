@@ -29,6 +29,12 @@ Below are some animations made in `Examples.ipynb`. The electric and magnetic fi
 
 ### Propagation of a plane electromagnetic pulse
 
+![Propagation of a plane electromagnetic pulse](gallery/plane-pulse-propagation-gpu.gif)
+
 ### Reflection of electromagentic pulse on other material
 
+![Reflection of electromagentic pulse on other material](gallery/plane-pulse-reflection-gpu.gif)
+
 ### Propagation of a point electromagnetic pulse
+
+![Propagation of a point electromagnetic pulse](gallery/point-pulse-propagation-gpu.gif)
