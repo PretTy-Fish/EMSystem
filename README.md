@@ -22,3 +22,13 @@ The following software is required for quality animation generation:
 * ImageMagick
   * Download: <https://imagemagick.org/script/download.php>
   * **Remember to check the option 'Install legacy utilities (e.g. convert)' during the stage 'Select Additional Tasks' when installing**
+
+## Examples
+
+Below are some animations made in `Examples.ipynb`. The electric and magnetic fields are represented with red and blue quivers respectively.
+
+### Propagation of a plane electromagnetic pulse
+
+### Reflection of electromagentic pulse on other material
+
+### Propagation of a point electromagnetic pulse
